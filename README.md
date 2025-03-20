@@ -1,5 +1,4 @@
 # Smart Email Assistant
-<<<<<<< HEAD
 
 A Chrome extension that helps you write professional emails using AI. This project integrates with Gmail to provide instant, context-aware email responses.
 
@@ -13,8 +12,6 @@ A Chrome extension that helps you write professional emails using AI. This proje
 - 🎨 Modern, responsive UI
 
 ## Project Structure
-=======
->>>>>>> b70dbc3aff6eb5115f817cc8f40c4d7503570a11
 
 This project consists of three main components:
 
@@ -63,7 +60,6 @@ Make sure to never commit your actual `.env` file or any files containing sensit
 
 - Frontend runs on `http://localhost:5173` by default
 - Backend runs on `http://localhost:8080` by default
-<<<<<<< HEAD
 - The Chrome extension will work with Gmail once both frontend and backend are running
 
 ## Tech Stack
@@ -80,6 +76,3 @@ Feel free to submit issues and enhancement requests!
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details. 
-=======
-- The Chrome extension will work with Gmail once both frontend and backend are running 
->>>>>>> b70dbc3aff6eb5115f817cc8f40c4d7503570a11
