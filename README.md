@@ -1,4 +1,4 @@
-# Email Writer Project
+# Smart Email Assistant
 
 This project consists of three main components:
 - Frontend (React application)
